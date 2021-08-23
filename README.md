@@ -4,7 +4,7 @@
 Repo chứa baseline của đồ án môn Tư duy tính toán CS117.L21. Đồ án bao gồm các thành viên sau tham gia thực hiện:
 - Bùi Cao Doanh 19521366
 - Bùi Trần Ngọc Dũng 19521385
-- Nguyễn Đăng Minh
+- Nguyễn Đăng Minh 19520164
 
 ## Cách cài đặt
 Sử dụng file ipynb đính kèm
