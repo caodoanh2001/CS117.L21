@@ -30,6 +30,9 @@ bash download_data.sh
 
 Cuối cùng chạy theo file ipynb đính kèm sẵn
 
+Update: trong repo có chỉ cách để evaluate kết quả detection. Chạy file `download_and_evaluation_data.sh` để tải dữ liệu MC-OCR và thử nghiệm kết quả trên nó.
+Có thể bạn cần sửa lại đường dẫn tập dữ liệu cho đúng ở file `models/detection/config_faster_rcnn_r50.py`
+
 Sau cùng sẽ có file `submission.zip`
 Nộp vào trang kiểm thử của cuộc thi MC-OCR Challenge 2021 để kiểm tra kết quả (yêu cầu đăng ký tài khoản), cuộc thi đã kết thúc, trang này dùng để các nghiên cứu sinh tìm kiếm SOTA.
 
